@@ -1,0 +1,560 @@
+.landing-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page .overlap-wrapper-2 {
+  background-color: #ffffff;
+  height: 890px;
+  overflow-x: hidden;
+  width: 1440px;
+}
+
+.landing-page .overlap-3 {
+  height: 627px;
+  position: relative;
+  width: 1448px;
+}
+
+.landing-page .frame-112 {
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.landing-page .overlap-group-20 {
+  height: 89px;
+  position: relative;
+}
+
+.landing-page .frame-113 {
+  background-color: #0969da;
+  height: 48px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.landing-page .text-wrapper-49 {
+  color: #ffffff;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 268px;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 25px;
+  width: 10px;
+}
+
+.landing-page .frame-114 {
+  background-color: #24292f;
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.landing-page .frame-115 {
+  height: 57px;
+  left: 147px;
+  position: relative;
+  top: 16px;
+  width: 1280px;
+}
+
+.landing-page .auto-layout-36 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 418.66px;
+  left: 64px;
+  position: absolute;
+  top: 8px;
+}
+
+.landing-page .frame-116 {
+  height: 40px;
+  position: relative;
+  width: 388.16px;
+}
+
+.landing-page .auto-layout-37 {
+  align-items: center;
+  display: inline-flex;
+  gap: 5.14px;
+  left: 0;
+  padding: 8px 8px 8px 9px;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page .text-wrapper-50 {
+  color: #ffffff;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page .frame-117 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page .auto-layout-38 {
+  align-items: center;
+  display: inline-flex;
+  gap: 3.83px;
+  left: 91px;
+  padding: 8px;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page .text-wrapper-51 {
+  color: #ffffff;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page .auto-layout-39 {
+  align-items: center;
+  display: inline-flex;
+  gap: 5.28px;
+  left: 193px;
+  padding: 8px 8px 8px 9px;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page .text-wrapper-52 {
+  color: #ffffff;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 24px;
+  left: 331px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.landing-page .frame-118 {
+  height: 40px;
+  position: relative;
+  width: 393.19px;
+}
+
+.landing-page .frame-119 {
+  background-color: #24292f;
+  border: 1px solid;
+  border-color: #57606a;
+  border-radius: 6px;
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 240px;
+}
+
+.landing-page .frame-120 {
+  height: 16px;
+  left: 13px;
+  position: absolute;
+  top: 11px;
+  width: 189px;
+}
+
+.landing-page .text-wrapper-53 {
+  color: #8c959f;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 169px;
+}
+
+.landing-page .frame-121 {
+  height: 20px;
+  left: 214px;
+  position: absolute;
+  top: 9px;
+  width: 17px;
+}
+
+.landing-page .auto-layout-40 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #d0d7de;
+  border-radius: 6px;
+  display: inline-flex;
+  left: 321px;
+  padding: 5px 9.27px 5px 9px;
+  position: absolute;
+  top: 3px;
+}
+
+.landing-page .text-wrapper-54 {
+  color: #ffffff;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page .text-wrapper-55 {
+  color: #ffffff;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  left: 256px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.landing-page .image-7 {
+  height: 51px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 134px;
+}
+
+.landing-page .frame-122 {
+  height: 573px;
+  left: 8px;
+  position: absolute;
+  top: 54px;
+  width: 1440px;
+}
+
+.landing-page .text-wrapper-56 {
+  color: #24292f;
+  font-family: "Helvetica-Bold", Helvetica;
+  font-size: 72px;
+  font-weight: 700;
+  height: 270px;
+  left: 365px;
+  letter-spacing: -2.16px;
+  line-height: 76px;
+  position: absolute;
+  text-align: center;
+  top: 163px;
+  width: 731px;
+}
+
+.landing-page .frame-123 {
+  height: 82px;
+  left: 96px;
+  position: absolute;
+  top: 13549px;
+  width: 1248px;
+}
+
+.landing-page .overlap-group-21 {
+  height: 104px;
+  left: 55px;
+  position: relative;
+  top: -22px;
+  width: 569px;
+}
+
+.landing-page .frame-124 {
+  border-color: #e1e4e8;
+  border-radius: 0px 16px 0px 0px;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  height: 82px;
+  left: 49px;
+  position: absolute;
+  top: 22px;
+  width: 520px;
+}
+
+.landing-page .frame-125 {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: #e1e4e8;
+  border-left-style: solid;
+  border-left-width: 2px;
+  border-radius: 0px 0px 0px 16px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 64px;
+}
+
+.landing-page .navbar {
+  height: 40px;
+  left: 96px;
+  position: absolute;
+  top: -6462px;
+  width: 1097px;
+}
+
+.landing-page .text-wrapper-57 {
+  color: #24292f;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.landing-page .automation-CI-CD {
+  color: #24292f;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  left: 196px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-58 {
+  color: #24292f;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  left: 392px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-59 {
+  color: #24292f;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  left: 491px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-60 {
+  color: #24292f;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  left: 614px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-61 {
+  color: #24292f;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  left: 810px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.landing-page .auto-layout-41 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 1006px;
+  padding: 8px 10.64px 8px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page .text-wrapper-62 {
+  color: #24292f;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page .rectangle-12 {
+  background-color: #24292f;
+  height: 1px;
+  left: 14px;
+  position: absolute;
+  top: 39px;
+  width: 64px;
+}
+
+.landing-page .get-started-wrapper {
+  align-items: center;
+  background-color: #cb2431;
+  border: 1px solid;
+  border-color: #f0f6fc1a;
+  border-radius: 50px;
+  display: flex;
+  height: 60px;
+  left: 651px;
+  padding: 4px 15.97px 4px 13px;
+  position: absolute;
+  top: 513px;
+  width: 138px;
+}
+
+.landing-page .get-started {
+  color: #ffffff;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page .frame-126 {
+  background-color: #f6f8fa;
+  height: 68px;
+  left: -14px;
+  position: absolute;
+  top: 767px;
+  width: 1440px;
+}
+
+.landing-page .frame-127 {
+  height: 68px;
+  left: 80px;
+  position: relative;
+  width: 1280px;
+}
+
+.landing-page .overlap-group-22 {
+  height: 66px;
+  left: 81px;
+  position: relative;
+  top: 1px;
+  width: 1227px;
+}
+
+.landing-page .frame-128 {
+  height: 20px;
+  left: 949px;
+  position: absolute;
+  top: 23px;
+  width: 234px;
+}
+
+.landing-page .frame-129 {
+  border-color: #21262d;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1227px;
+}
+
+.landing-page .frame-130 {
+  height: 25px;
+  position: relative;
+  top: 41px;
+  width: 137px;
+}
+
+.landing-page .element-taglio-LLC-6 {
+  color: #8b949e;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 18px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-63 {
+  color: #24292f;
+  font-family: "Helvetica-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 24px;
+  left: 354px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 469px;
+  white-space: nowrap;
+}

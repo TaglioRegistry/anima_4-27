@@ -1,0 +1,598 @@
+.user-home-page {
+  background-color: #0d1117;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.user-home-page .div-3 {
+  background-color: #0d1117;
+  height: 904px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.user-home-page .frame-21 {
+  height: 74px;
+  left: -1px;
+  position: absolute;
+  top: 0;
+  width: 1434px;
+}
+
+.user-home-page .frame-22 {
+  background-color: #161b22;
+  height: 84px;
+  position: relative;
+}
+
+.user-home-page .overlap-group-6 {
+  height: 57px;
+  left: 26px;
+  position: absolute;
+  top: 17px;
+  width: 1262px;
+}
+
+.user-home-page .frame-23 {
+  height: 46px;
+  left: 20px;
+  position: absolute;
+  top: 11px;
+  width: 1242px;
+}
+
+.user-home-page .auto-layout-5 {
+  align-items: flex-start;
+  background-color: #0d1117;
+  border: 1px solid;
+  border-color: #8b949e;
+  border-radius: 6px;
+  display: flex;
+  gap: 171px;
+  height: 46px;
+  left: 799px;
+  padding: 4px 5px 4px 13px;
+  position: absolute;
+  top: 0;
+  width: 295px;
+}
+
+.user-home-page .input {
+  background-color: transparent;
+  border: 0;
+  color: #c9d1d9;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  padding: 0;
+  position: relative;
+  width: 57px;
+}
+
+.user-home-page .frame-24 {
+  height: 30px;
+  position: relative;
+  width: 49px;
+}
+
+.user-home-page .auto-layout-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 37px;
+  left: 1197px;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.user-home-page .auto-layout-7 {
+  display: block;
+  height: 37px;
+  position: relative;
+  width: 43px;
+}
+
+.user-home-page .auto-layout-8 {
+  flex: 0 0 auto;
+  height: 37px;
+  margin-right: -5px;
+  position: relative;
+}
+
+.user-home-page .frame-25 {
+  height: 31px;
+  left: 1162px;
+  position: absolute;
+  top: 15px;
+  width: 35px;
+}
+
+.user-home-page .image-3 {
+  height: 50px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 143px;
+}
+
+.user-home-page .frame-26 {
+  display: block;
+  height: 63px;
+  left: 1355px;
+  position: absolute;
+  top: 16px;
+  width: 65px;
+}
+
+.user-home-page .frame-27 {
+  height: 329px;
+  left: 45px;
+  position: absolute;
+  top: 145px;
+  width: 287px;
+}
+
+.user-home-page .frame-28 {
+  background-color: #b1bac414;
+  border-radius: 6px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 32px;
+  width: 280px;
+}
+
+.user-home-page .rectangle-3 {
+  background-color: #800000;
+  border-radius: 6px;
+  height: 24px;
+  left: -8px;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.user-home-page .text-wrapper-9 {
+  color: #c9d1d9;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  height: 18px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.user-home-page .frame-29 {
+  height: 16px;
+  left: 10px;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+
+.user-home-page .frame-30 {
+  background-color: #b1bac414;
+  border-radius: 6px;
+  height: 32px;
+  left: 3px;
+  position: absolute;
+  top: 202px;
+  width: 280px;
+}
+
+.user-home-page .frame-31 {
+  border-radius: 6px;
+  height: 32px;
+  left: 3px;
+  position: absolute;
+  top: 69px;
+  width: 280px;
+}
+
+.user-home-page .frame-32 {
+  height: 16px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+
+.user-home-page .auto-layout-9 {
+  align-items: flex-start;
+  background-color: #6e768166;
+  border-radius: 24px;
+  display: inline-flex;
+  left: 251px;
+  padding: 1px 6.67px 1px 7px;
+  position: absolute;
+  top: 6px;
+}
+
+.user-home-page .text-wrapper-10 {
+  color: #c9d1d9;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.user-home-page .text-wrapper-11 {
+  color: #c9d1d9;
+  display: block;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 18px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+  width: 130px;
+}
+
+.user-home-page .frame-33 {
+  border-radius: 6px;
+  height: 32px;
+  left: 3px;
+  position: absolute;
+  top: 106px;
+  width: 280px;
+}
+
+.user-home-page .text-wrapper-12 {
+  color: #c9d1d9;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 18px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+  width: 130px;
+}
+
+.user-home-page .frame-34 {
+  border-radius: 6px;
+  height: 32px;
+  left: 3px;
+  position: absolute;
+  top: 158px;
+  width: 280px;
+}
+
+.user-home-page .overlap-group-7 {
+  border-radius: 6px;
+  height: 32px;
+  position: relative;
+}
+
+.user-home-page .frame-35 {
+  background-color: #b1bac414;
+  border-radius: 6px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.user-home-page .rectangle-4 {
+  background-color: #800000;
+  border-radius: 6px;
+  height: 24px;
+  left: -8px;
+  position: relative;
+  top: 4px;
+  width: 4px;
+}
+
+.user-home-page .auto-layout-10 {
+  align-items: flex-start;
+  background-color: #0d1117;
+  border: 1px solid;
+  border-color: #30363d;
+  border-radius: 6px;
+  display: flex;
+  gap: 205px;
+  height: 28px;
+  left: -5px;
+  padding: 4px 5px 4px 13px;
+  position: absolute;
+  top: -14px;
+  width: 288px;
+}
+
+.user-home-page .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.user-home-page .frame-36 {
+  height: 20px;
+  position: relative;
+  width: 18.08px;
+}
+
+.user-home-page .frame-37 {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 651px;
+  justify-content: space-between;
+  left: 369px;
+  padding: 30px 0px;
+  position: absolute;
+  top: 159px;
+  width: 983px;
+}
+
+.user-home-page .text-wrapper-14 {
+  color: #c9d1d9;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 31px;
+  font-weight: 600;
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 271px;
+}
+
+.user-home-page .frame-38 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  height: 507px;
+  margin-left: -271px;
+  padding: 8px;
+  position: relative;
+  width: 940px;
+}
+
+.user-home-page .p {
+  color: #6e7681;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 622.09px;
+}
+
+.user-home-page .frame-39 {
+  background-color: #071822;
+  border: 5px solid;
+  border-color: #30363d;
+  border-radius: 6px;
+  height: 180px;
+  position: relative;
+  width: 905px;
+}
+
+.user-home-page .overlap-group-8 {
+  height: 58px;
+  left: 28px;
+  position: absolute;
+  top: 25px;
+  width: 181px;
+}
+
+.user-home-page .auto-layout-vertical-wrapper {
+  align-items: center;
+  display: inline-flex;
+  gap: 344.33px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+}
+
+.user-home-page .auto-layout-vertical {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.user-home-page .text-wrapper-15 {
+  color: #fb8532;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.user-home-page .auto-layout-11 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7.66px;
+  position: relative;
+}
+
+.user-home-page .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  width: 91px;
+}
+
+.user-home-page .vector {
+  height: 12px;
+  left: 166px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.user-home-page .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+  width: 366px;
+}
+
+.user-home-page .auto-layout-12 {
+  align-items: flex-start;
+  background-color: #21262d;
+  border: 1px solid;
+  border-color: #f0f6fc1a;
+  border-radius: 6px;
+  display: flex;
+  height: 35px;
+  left: 789px;
+  padding: 6px 20.55px 6px 20px;
+  position: absolute;
+  top: 15px;
+  width: 84px;
+}
+
+.user-home-page .text-wrapper-18 {
+  color: #c9d1d9;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-right: -0.55px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.user-home-page .rectangle-5 {
+  background-color: #a02cda;
+  border: 1px solid;
+  border-color: #ffffff33;
+  border-radius: 6px;
+  height: 12px;
+  left: 35px;
+  position: absolute;
+  top: 141px;
+  width: 12px;
+}
+
+.user-home-page .frame-40 {
+  height: 12px;
+  left: 138px;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.user-home-page .frame-41 {
+  border-color: #21262d;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 66px;
+  left: 55px;
+  position: absolute;
+  top: 810px;
+  width: 1227px;
+}
+
+.user-home-page .frame-42 {
+  height: 25px;
+  position: relative;
+  top: 41px;
+  width: 137px;
+}
+
+.user-home-page .overlap-group-9 {
+  height: 18px;
+  left: 32px;
+  position: absolute;
+  top: 2px;
+  width: 110px;
+}
+
+.user-home-page .element-taglio-LLC-3 {
+  color: #8b949e;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 18px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.user-home-page .text-wrapper-19 {
+  color: #8b949e;
+  display: block;
+  font-family: "Noto Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  height: 39px;
+  left: 1168px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -9px;
+  width: 118px;
+}
